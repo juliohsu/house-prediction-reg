@@ -1,15 +1,11 @@
 # Kaggle Competition
-<a href='https://www.kaggle.com/code/juliohsu/house-prediction-reg/notebook'>Competition Link</a>
+<a href='https://www.kaggle.com/code/juliohsu/house-prediction-reg/notebook'>Link</a>
 # House Prices - Advanced Regression Techniques
 
 Run
-20.9s
-
-Public Score
-0.55524
+21.1s
 
 Best Score
-0.55524 V7
+0.55249 V14
 
-
-Version 7 of 7
+Version 17 of 17
