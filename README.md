@@ -1,5 +1,5 @@
 # Kaggle Competition
-<a href='https://www.kaggle.com/code/juliohsu/house-prediction-reg/notebook'/>
+<a href='https://www.kaggle.com/code/juliohsu/house-prediction-reg/notebook'>Competition Link</a>
 # House Prices - Advanced Regression Techniques
 
 Run
