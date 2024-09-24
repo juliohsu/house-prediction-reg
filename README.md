@@ -1,4 +1,4 @@
-# Competition Notebook
+# Competition Machine Learning
 # House Prices - Advanced Regression Techniques
 
 Run
